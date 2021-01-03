@@ -1,0 +1,16 @@
+#Player2Points {
+	visibility: hidden;
+}
+#DeckDiv {
+	align-self: center;
+}
+#DeckRow {
+	justify-content: center;
+}
+#ButtonsDiv {
+	text-align-last: center;
+	padding-top: 30px;
+}
+#timerDiv{
+	position: static;
+}
