@@ -1,1 +1,1 @@
-A simple BlackJack game coded with pure JavaScript and styled with Bootstrap.
+A simple BlackJack game coded with vanilla JavaScript and styled with Bootstrap.
